@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\SoftWx.Numerics\bin\release\</OutputPath>
+    <DocumentationFile>..\SoftWx.Numerics\bin\release\netstandard2.0\SoftWx.Numerics.NetStandard20.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

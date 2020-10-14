@@ -42,6 +42,8 @@ Library containing a UInt128 class, and extensions to .Net's built in integral d
     <file src="..\SoftWx.Numerics\bin\release\net40\SoftWx.Numerics.xml" target="lib\net40" />
     <file src="..\SoftWx.Numerics\bin\release\net45\SoftWx.Numerics.dll" target="lib\net45" />
     <file src="..\SoftWx.Numerics\bin\release\net45\SoftWx.Numerics.xml" target="lib\net45" />
+	<file src="..\SoftWx.Numerics\bin\release\netstandard2.0\SoftWx.Numerics.dll" target="lib\netstandard2.0" />
+	<file src="..\SoftWx.Numerics\bin\release\net45\SoftWx.Numerics.xml" target="lib\net45" />
     <file src="tools\" target="tools" />
     <file src="content\" target="content" />
   </files>
